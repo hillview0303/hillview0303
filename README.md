@@ -26,6 +26,7 @@
             <img src="https://img.shields.io/badge/Shelf%20-33C4FF?style=plastic&logo=github&logoColor=white" />
         </a>
     </div>
+    <hr style="width: 80%; border: 1px solid #ccc; margin: 20px 0;">
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
