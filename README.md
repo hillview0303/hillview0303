@@ -7,7 +7,14 @@
 </a>
 </details>
 
-<!-- 포트폴리오 제목과 링크 추가 -->
+<!-- Tech Stack 섹션 -->
+<div align="center">
+    <h2>Tech Stack</h2>
+    <h3>Platforms & Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillview0303&layout=compact&langs_count=8&theme=dark" alt="Top Langs" width="60%" />
+</div>
+
+<!-- 포트폴리오 제목과 링크 -->
 <div align="center">
     <h2>Project Source Code</h2>
     <div style="display: flex; flex-direction: column; align-items: center;">
