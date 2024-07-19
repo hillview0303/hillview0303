@@ -2,8 +2,9 @@
 <div align="center">
 <details>
 <summary>About Me!</summary>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white"/>
-</summary>
+<a href="mailto:j910219@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white"/>
+</a>
 </details>
 
 <!-- 포트폴리오 제목과 링크 추가 -->
