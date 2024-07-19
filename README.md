@@ -8,7 +8,7 @@
 
 <!-- 포트폴리오 제목과 링크 추가 -->
 <div align="center">
-    <h2>My Portfolio Projects</h2>
+    <h2>My Projects</h2>
     <div style="display: flex; flex-direction: column; align-items: center;">
         <a href="https://github.com/hillview0303/miniproject-jobala-v2-ssr" target="_blank" style="margin: 5px 0;">
             <img src="https://img.shields.io/badge/jobalaSSR%20-FF5733?style=plastic&logo=github&logoColor=white" />
