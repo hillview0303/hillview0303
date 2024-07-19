@@ -10,7 +10,7 @@
 <!-- Tech Stack 섹션 -->
 <div align="center">
     <h2>Tech Stack</h2>
-    <h3>Platforms & Languages</h3>
+    <h3>Platforms & Languages & Tools</h3>
     
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
