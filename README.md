@@ -20,10 +20,10 @@
             <img src="https://img.shields.io/badge/Bodykey%20-5733FF?style=plastic&logo=github&logoColor=white" />
         </a>
         <a href="https://github.com/hillview0303/social-lize" target="_blank" style="margin: 5px 0;">
-            <img src="https://img.shields.io/badge/socialize%20-FF33A6?style=plastic&logo=github&logoColor=white" />
+            <img src="https://img.shields.io/badge/Socialize%20-FF33A6?style=plastic&logo=github&logoColor=white" />
         </a>
         <a href="https://github.com/hillview0303/shelf-flutter-project" target="_blank" style="margin: 5px 0;">
-            <img src="https://img.shields.io/badge/shelf%20-33C4FF?style=plastic&logo=github&logoColor=white" />
+            <img src="https://img.shields.io/badge/Shelf%20-33C4FF?style=plastic&logo=github&logoColor=white" />
         </a>
     </div>
 </div>
